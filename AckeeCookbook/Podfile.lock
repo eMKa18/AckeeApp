@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.7.1)
+  - ReactiveCocoa (7.1.0):
+    - ReactiveSwift (~> 3.1)
+  - ReactiveSwift (3.1.0):
+    - Result (~> 3.2)
+  - Reqres (2.1.1)
+  - Result (3.2.4)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - ReactiveCocoa (~> 7.1.0)
+  - ReactiveSwift (~> 3.1.0)
+  - Reqres (~> 2.1.1)
+  - SnapKit (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  ReactiveCocoa: 105ad96f6b8711f1ee7d165fc96587479298053b
+  ReactiveSwift: 5b26d2e988fe0eed2daf48c4054d1de74db50184
+  Reqres: d532d6fddbede6d688552a7f2535fb0102fc4aca
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 2d25110f67029d8ea0dc10a70b6809dc0177cfab
+
+COCOAPODS: 1.4.0
